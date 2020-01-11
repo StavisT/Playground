@@ -1,0 +1,5 @@
+{
+"name":"str",
+"shares":"int",
+"price":"float"
+}
